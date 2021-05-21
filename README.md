@@ -14,3 +14,18 @@ Assim surgiu a opurtunidade de matar a curiosidade e pôr os nossos conhecimento
 + Qual o distrito com menos população analfabeta?
 + Existem mais mulheres ou homens analfabetos?
 + Qual a média da populção anlfabeta em Portugal e a média da população que sabe ler?
+
+# 📔 Dicionário dos dados
+Uma explicação do conteúdo em `Censos_1900.csv` e `Censos_1911.csv`.
+
+
+| Nome da coluna        | Significado           | Tipo de dado  |
+| ------------- |:-------------:| -----:|
+| `Distrito` | Nome do distrito de Portugal | stirng |
+| `População` | Número de pessoas por distrito | int |
+| `Homens_Analfabetos` | Nome do distrito de Portugal | object |
+| `Homens_sabem_ler` | Nome do distrito de Portugal | object |
+| `Mulheres_Analfabetas` | Nome do distrito de Portugal | object |
+| `Mulheres_sabem_ler` | Nome do distrito de Portugal | object |
+| `Total_Analfabet0s` | Nome do distrito de Portugal | object |
+| `Total_sabem_ler` | Nome do distrito de Portugal | object |

@@ -29,3 +29,5 @@ Uma explicação do conteúdo em `Censos_1900.csv` e `Censos_1911.csv`.
 | `Mulheres_sabem_ler` | Nome do distrito de Portugal | object |
 | `Total_Analfabet0s` | Nome do distrito de Portugal | object |
 | `Total_sabem_ler` | Nome do distrito de Portugal | object |
+
+# 💡 Problemas, inconsistências e melhorias

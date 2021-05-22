@@ -31,6 +31,7 @@ Uma explicação do conteúdo em `Censos_1900.csv` e `Censos_1911.csv`.
 | `Total_sabem_ler` | Nome do distrito de Portugal | object |
 
 # 💡 Problemas durante o trabalho
-Durante esta pesquisa obtivemos vários dados, visto que a maioria não era confiável nem adaptável para o trabalho, em primeiro lugar fomos pesquisar em dados.org mas os dados não estavam a funcionar, de seguida obtivemos o json dos dados mas este não funcionou por ser demasiado grande, por fim optamos por fazer dos anos de 1900 e 1911, pelo facto de serem dados confiáveis e exequíveis.
-Apesar de serem confiáveis o cabeçalho da tabela não estava bem construído para análise dos dados, por isso tivemos de a reformular passando assim os dados e criando o nosso próprio csv com os dados da wikipedia. Como criámos o nosso próprio csv, não foi necessário fazer a limpeza dos dados.
+Durante esta pesquisa tivemos acesso a vários dados, mas a maioria não era confiável nem adaptável para o trabalho.
+Em primeiro lugar fomos pesquisar em dados.org mas os dados não estavam a funcionar, de seguida obtivemos o json dos dados mas este não era exequível por ser demasiado grande, por fim optamos por fazer dos anos de 1900 e 1911, pelo facto de serem dados confiáveis e exequíveis.
+Apesar de serem confiáveis o cabeçalho da tabela não estava bem construído para análise dos dados, por isso tivemos de a reformular passando assim os dados e criando o nosso próprio csv com os dados da wikipedia. Como criámos o nosso próprio csv, não foi necessário fazer a limpeza dos dados do conjunto de dados.
 

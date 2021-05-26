@@ -1,4 +1,4 @@
-# Dados relativos à taxa de analfabetismo em Portugal nos anos de 1900 e 1911
+# Dados relativos à taxa de analfabetismo em Portugal nos anos de 1900 e 1911.
 
 ℹ️ **Fonte dos dados**: 
 Censos de 1900-https://pt.wikipedia.org/wiki/IV_Recenseamento_Geral_da_Popula%C3%A7%C3%A3o_de_Portugal] 

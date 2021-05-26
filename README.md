@@ -35,3 +35,6 @@ Durante esta pesquisa tivemos acesso a vários dados, mas a maioria não era con
 Em primeiro lugar fomos pesquisar em dados.org mas os dados não estavam a funcionar, de seguida obtivemos o json dos dados mas este não era exequível por ser demasiado grande, por fim optamos por fazer dos anos de 1900 e 1911, pelo facto de serem dados confiáveis e exequíveis.
 Apesar de serem confiáveis o cabeçalho da tabela não estava bem construído para análise dos dados, por isso tivemos de a reformular passando assim os dados e criando o nosso próprio csv com os dados da wikipedia. Como criámos o nosso próprio csv, não foi necessário fazer a limpeza dos dados do conjunto de dados.
 
+# Conclusões
+Após a conclusão dos nossos estudos, acreditamos que este trabalho foi bastante esclarecedor na medida em que pudemos conhecer um pouco mais da sociedade antiga em Portugal. É bastante gratificante ver como evoluímos visto que, em 2021, é rara a pessoa que não saiba ler ou escrever e existem muitas mais oportunidades de ensino a esse respeito.
+Como grupo, para além de termos aprendido bastante sobre a análise de dados, também aprendemos mais sobre como trabalhar em equipa na criação de um projeto, melhorámos os nossos conhecimentos de Python e tivemos a possibilidade de pôr em prática a matéria lecionada nas aulas de Programação e Algoritmos II.
